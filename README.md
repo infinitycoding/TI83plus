@@ -16,6 +16,9 @@ basierten distributionen zu installieren führen sie folgenden befehl in der kom
 
     sudo apt-get install tilp2
 
+Um TILP2 unter arch-linux zu installieren müssen sie es sich und alle abhängigkeiten aus der AUR herunterladen und per hand
+installieren.
+
 Um das programm problemlos zu nutzen müssen sie es mit root-Rechten ausführen da das programm sonst eventuell zugriffsprobleme hat.
 
     sudo tilp
